@@ -1,0 +1,22 @@
+# Orchestration + persistence
+langgraph>=0.2.50
+langgraph-checkpoint-sqlite>=2.0.0
+
+# Transcription with word-level timestamps
+faster-whisper>=1.0.3
+
+# Face / person detection
+ultralytics>=8.2.0
+
+# Shot-cut detection (pacing-aware timing)
+scenedetect[opencv]>=0.6.4
+
+# Frame sampling
+opencv-python>=4.9.0
+
+# Validation of props.json before writing
+pydantic>=2.6.0
+
+# Verification only: offline TTS for the synthetic test clip (scripts/ensure_sample.py).
+# numpy ships with opencv-python; both are used by _integration_test.py.
+pyttsx3>=2.90

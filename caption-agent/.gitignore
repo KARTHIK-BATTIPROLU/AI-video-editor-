@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pipeline runtime artifacts
+data/checkpoints.sqlite
+data/work/
+
+# Node / Remotion
+remotion/node_modules/
+remotion/out/
+
+# Copied input videos (the pipeline copies the source into public/ each run).
+# Keep the committed demo asset (sample.mp4) and the default props.json, which
+# Root.tsx imports at compile time and the pipeline overwrites at runtime.
+remotion/public/*.mp4
+!remotion/public/sample.mp4
+
+# Ad-hoc outputs
+out*.mp4
+
+# YOLO weights (downloaded on first use)
+*.pt
