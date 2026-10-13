@@ -1,0 +1,610 @@
+{
+  "videoSrc": "sample.mp4",
+  "fps": 30.0,
+  "width": 478,
+  "height": 850,
+  "durationInFrames": 1211,
+  "template": {
+    "id": "karaoke",
+    "font": "Archivo",
+    "sizePx": 30,
+    "weight": 900,
+    "upper": false,
+    "anim": "fill",
+    "baseColor": "rgba(255,255,255,.55)",
+    "activeColor": "#46e8ff",
+    "enterMs": 320
+  },
+  "pages": [
+    {
+      "startMs": 1980,
+      "endMs": 4400,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "After",
+          "startMs": 1980,
+          "endMs": 2780
+        },
+        {
+          "text": "MZE",
+          "startMs": 2780,
+          "endMs": 3280
+        },
+        {
+          "text": "said",
+          "startMs": 3280,
+          "endMs": 3500
+        },
+        {
+          "text": "policy",
+          "startMs": 3500,
+          "endMs": 3880
+        },
+        {
+          "text": "exams,",
+          "startMs": 3880,
+          "endMs": 4400
+        }
+      ]
+    },
+    {
+      "startMs": 4640,
+      "endMs": 7120,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "colleges",
+          "startMs": 4640,
+          "endMs": 5720
+        },
+        {
+          "text": "didn't",
+          "startMs": 5720,
+          "endMs": 6020
+        },
+        {
+          "text": "like",
+          "startMs": 6020,
+          "endMs": 6060
+        },
+        {
+          "text": "it,",
+          "startMs": 6060,
+          "endMs": 6620
+        },
+        {
+          "text": "it",
+          "startMs": 6620,
+          "endMs": 7120
+        }
+      ]
+    },
+    {
+      "startMs": 7120,
+      "endMs": 8360,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "was",
+          "startMs": 7120,
+          "endMs": 7140
+        },
+        {
+          "text": "a",
+          "startMs": 7140,
+          "endMs": 7140
+        },
+        {
+          "text": "good",
+          "startMs": 7140,
+          "endMs": 7360
+        },
+        {
+          "text": "headache.",
+          "startMs": 7360,
+          "endMs": 8360
+        }
+      ]
+    },
+    {
+      "startMs": 8800,
+      "endMs": 11340,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "And",
+          "startMs": 8800,
+          "endMs": 9540
+        },
+        {
+          "text": "you",
+          "startMs": 9540,
+          "endMs": 9900
+        },
+        {
+          "text": "see,",
+          "startMs": 9900,
+          "endMs": 10100
+        },
+        {
+          "text": "colleges",
+          "startMs": 10720,
+          "endMs": 11000
+        },
+        {
+          "text": "have",
+          "startMs": 11000,
+          "endMs": 11340
+        }
+      ]
+    },
+    {
+      "startMs": 11340,
+      "endMs": 14780,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "a",
+          "startMs": 11340,
+          "endMs": 11340
+        },
+        {
+          "text": "best",
+          "startMs": 11340,
+          "endMs": 11880
+        },
+        {
+          "text": "placement,",
+          "startMs": 11880,
+          "endMs": 12600
+        },
+        {
+          "text": "and",
+          "startMs": 13200,
+          "endMs": 14160
+        },
+        {
+          "text": "we",
+          "startMs": 14160,
+          "endMs": 14780
+        }
+      ]
+    },
+    {
+      "startMs": 14780,
+      "endMs": 15520,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "don't",
+          "startMs": 14780,
+          "endMs": 15020
+        },
+        {
+          "text": "know",
+          "startMs": 15020,
+          "endMs": 15020
+        },
+        {
+          "text": "much",
+          "startMs": 15020,
+          "endMs": 15320
+        },
+        {
+          "text": "about",
+          "startMs": 15320,
+          "endMs": 15520
+        },
+        {
+          "text": "it.",
+          "startMs": 15520,
+          "endMs": 15520
+        }
+      ]
+    },
+    {
+      "startMs": 16060,
+      "endMs": 17300,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "We",
+          "startMs": 16060,
+          "endMs": 16300
+        },
+        {
+          "text": "don't",
+          "startMs": 16300,
+          "endMs": 16800
+        },
+        {
+          "text": "know",
+          "startMs": 16800,
+          "endMs": 17300
+        },
+        {
+          "text": "much",
+          "startMs": 17300,
+          "endMs": 17300
+        },
+        {
+          "text": "about",
+          "startMs": 17300,
+          "endMs": 17300
+        }
+      ]
+    },
+    {
+      "startMs": 17300,
+      "endMs": 17300,
+      "x": 0.5,
+      "y": 0.78,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "it.",
+          "startMs": 17300,
+          "endMs": 17300
+        }
+      ]
+    },
+    {
+      "startMs": 17860,
+      "endMs": 19460,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "And",
+          "startMs": 17860,
+          "endMs": 18260
+        },
+        {
+          "text": "there",
+          "startMs": 18260,
+          "endMs": 18520
+        },
+        {
+          "text": "are",
+          "startMs": 18520,
+          "endMs": 18800
+        },
+        {
+          "text": "4",
+          "startMs": 18800,
+          "endMs": 18960
+        },
+        {
+          "text": "factors.",
+          "startMs": 18960,
+          "endMs": 19460
+        }
+      ]
+    },
+    {
+      "startMs": 20040,
+      "endMs": 22060,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "It's",
+          "startMs": 20040,
+          "endMs": 20540
+        },
+        {
+          "text": "totally",
+          "startMs": 20540,
+          "endMs": 21120
+        },
+        {
+          "text": "a",
+          "startMs": 21120,
+          "endMs": 21320
+        },
+        {
+          "text": "really",
+          "startMs": 21320,
+          "endMs": 21760
+        },
+        {
+          "text": "big",
+          "startMs": 21760,
+          "endMs": 22060
+        }
+      ]
+    },
+    {
+      "startMs": 22060,
+      "endMs": 22400,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "headache.",
+          "startMs": 22060,
+          "endMs": 22400
+        }
+      ]
+    },
+    {
+      "startMs": 22840,
+      "endMs": 24540,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "Personally,",
+          "startMs": 22840,
+          "endMs": 23240
+        },
+        {
+          "text": "it",
+          "startMs": 23460,
+          "endMs": 23540
+        },
+        {
+          "text": "took",
+          "startMs": 23540,
+          "endMs": 24280
+        },
+        {
+          "text": "me",
+          "startMs": 24280,
+          "endMs": 24420
+        },
+        {
+          "text": "like",
+          "startMs": 24420,
+          "endMs": 24540
+        }
+      ]
+    },
+    {
+      "startMs": 24540,
+      "endMs": 25180,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "2",
+          "startMs": 24540,
+          "endMs": 24940
+        },
+        {
+          "text": "months.",
+          "startMs": 24940,
+          "endMs": 25180
+        }
+      ]
+    },
+    {
+      "startMs": 25720,
+      "endMs": 28060,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "I",
+          "startMs": 25720,
+          "endMs": 26160
+        },
+        {
+          "text": "mean,",
+          "startMs": 26160,
+          "endMs": 26540
+        },
+        {
+          "text": "I'm",
+          "startMs": 26540,
+          "endMs": 26840
+        },
+        {
+          "text": "very",
+          "startMs": 26840,
+          "endMs": 27000
+        },
+        {
+          "text": "big.",
+          "startMs": 27000,
+          "endMs": 28060
+        }
+      ]
+    },
+    {
+      "startMs": 31440,
+      "endMs": 32560,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "I'm",
+          "startMs": 31440,
+          "endMs": 31880
+        },
+        {
+          "text": "very",
+          "startMs": 31880,
+          "endMs": 32000
+        },
+        {
+          "text": "much",
+          "startMs": 32000,
+          "endMs": 32200
+        },
+        {
+          "text": "of",
+          "startMs": 32200,
+          "endMs": 32360
+        },
+        {
+          "text": "a",
+          "startMs": 32360,
+          "endMs": 32560
+        }
+      ]
+    },
+    {
+      "startMs": 32560,
+      "endMs": 33620,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "research",
+          "startMs": 32560,
+          "endMs": 32980
+        },
+        {
+          "text": "-minded",
+          "startMs": 32980,
+          "endMs": 33260
+        },
+        {
+          "text": "person.",
+          "startMs": 33260,
+          "endMs": 33620
+        }
+      ]
+    },
+    {
+      "startMs": 33800,
+      "endMs": 34460,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "It",
+          "startMs": 33800,
+          "endMs": 33860
+        },
+        {
+          "text": "took",
+          "startMs": 33860,
+          "endMs": 33960
+        },
+        {
+          "text": "me",
+          "startMs": 33960,
+          "endMs": 34120
+        },
+        {
+          "text": "like",
+          "startMs": 34120,
+          "endMs": 34220
+        },
+        {
+          "text": "2",
+          "startMs": 34220,
+          "endMs": 34460
+        }
+      ]
+    },
+    {
+      "startMs": 34460,
+      "endMs": 34680,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "months.",
+          "startMs": 34460,
+          "endMs": 34680
+        }
+      ]
+    },
+    {
+      "startMs": 35060,
+      "endMs": 36080,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "But",
+          "startMs": 35060,
+          "endMs": 35240
+        },
+        {
+          "text": "I",
+          "startMs": 35240,
+          "endMs": 35640
+        },
+        {
+          "text": "don't",
+          "startMs": 35640,
+          "endMs": 35780
+        },
+        {
+          "text": "want",
+          "startMs": 35780,
+          "endMs": 35940
+        },
+        {
+          "text": "you",
+          "startMs": 35940,
+          "endMs": 36080
+        }
+      ]
+    },
+    {
+      "startMs": 36080,
+      "endMs": 37480,
+      "x": 0.5,
+      "y": 0.88,
+      "anchor": "lower",
+      "words": [
+        {
+          "text": "to",
+          "startMs": 36080,
+          "endMs": 36220
+        },
+        {
+          "text": "invest",
+          "startMs": 36220,
+          "endMs": 36580
+        },
+        {
+          "text": "all",
+          "startMs": 36580,
+          "endMs": 37040
+        },
+        {
+          "text": "those",
+          "startMs": 37040,
+          "endMs": 37240
+        },
+        {
+          "text": "time.",
+          "startMs": 37240,
+          "endMs": 37480
+        }
+      ]
+    }
+  ]
+}
